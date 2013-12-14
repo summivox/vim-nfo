@@ -1,0 +1,1 @@
+setl ambiwidth=single
