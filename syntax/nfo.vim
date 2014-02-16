@@ -1,7 +1,7 @@
 " Vim syntax file
 " Language:	NFO
 " Maintainer:	smilekzs <smilekzs@gmail.com>
-" Last Change:	2013 Dec. 14
+" Last Change:	2014 Feb. 16
 
 " Quit when a (custom) syntax file was already loaded
 if exists("b:current_syntax")
@@ -17,7 +17,7 @@ unlet! b:current_syntax
 syn match cSpecial /[^ -~]/
 hi def link cSpecial Operator
 
-let b:current_syntax = "c"
+let b:current_syntax = "nfo"
 
 if main_syntax == "nfo"
   unlet main_syntax
