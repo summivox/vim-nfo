@@ -1,6 +1,6 @@
 " Vim syntax file
 " Language:	NFO
-" Maintainer:	smilekzs <smilekzs@gmail.com>
+" Maintainer:	summivox <summivox@gmail.com>
 " Last Change:	2014 Feb. 16
 
 " Quit when a (custom) syntax file was already loaded
